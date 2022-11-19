@@ -1,0 +1,23 @@
+{
+    "enable_Config": true, 
+    "config_Version": 4, 
+    "mihoyobbs_Login_ticket": "8bkCvWlDllGg8kBGn1FNctBZ5mCUSXZBFrxXdqYN", 
+    "mihoyobbs_Stuid": "76262193", 
+    "mihoyobbs_Stoken": "2erYv9OpoV3NtOr55hpE8JR35gIyY6v3Q53LnNtW", 
+    "mihoyobbs_Cookies": "_MHYUUID=985a5f18-3396-4865-907e-37be06254bc2; _ga=GA1.2.464005926.1656220101; _gid=GA1.2.1454813826.1656220101; ltoken=1NCAQ8ubsu1wiBaeGsbpxPYGxkqef6eeq5FzZbQs; ltuid=76262193; cookie_token=LHDoIOyf7uo7sr91MN45njEB6cEukeSsM83SzJns; account_id=76262193; DEVICEFP_SEED_ID=a1665a900089b28c; DEVICEFP_SEED_TIME=1656220183480; DEVICEFP=38d7ea953db4a; login_uid=76262193; login_ticket=8bkCvWlDllGg8kBGn1FNctBZ5mCUSXZBFrxXdqYN", 
+    "mihoyobbs": {
+        "bbs_Global": true, 
+        "bbs_Signin": true, 
+        "bbs_Signin_multi": true, 
+        "bbs_Signin_multi_list": [
+            2, 
+            5
+        ], 
+        "bbs_Read_posts": true, 
+        "bbs_Like_posts": true, 
+        "bbs_Unlike": true, 
+        "bbs_Share": true
+    }, 
+    "genshin_Auto_sign": true, 
+    "honkai3rd_Auto_sign": false
+}
